@@ -48,3 +48,6 @@ credentials.json
 *.tar.gz
 *.7z
 *.rar
+
+# ---- 本机工具备份（不应进入仓库） ----
+.path-backup/
